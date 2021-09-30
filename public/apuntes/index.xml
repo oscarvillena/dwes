@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Apuntes on Desarrollo de aplicaciones web en el servidor</title>
+    <link>http://example.org/apuntes/</link>
+    <description>Recent content in Apuntes on Desarrollo de aplicaciones web en el servidor</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Sep 2021 17:49:56 +0200</lastBuildDate>
+    
+	<atom:link href="http://example.org/apuntes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Apuntes1</title>
+      <link>http://example.org/apuntes/apuntes1/</link>
+      <pubDate>Tue, 28 Sep 2021 17:49:56 +0200</pubDate>
+      
+      <guid>http://example.org/apuntes/apuntes1/</guid>
+      <description>Este lenguaje se llama Markdown y lo utilizo en este sitio estatico.
+{Accede a Markdown}(https://markdown.es/)
+Título de nuestro documento Índice de contenidos  Contenido 1 Contenido 2 Contenido 3 Contenido 4  Lorem ipsum dolor
+Contenido 1 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Subir
+Contenido 2 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+  </channel>
+</rss>

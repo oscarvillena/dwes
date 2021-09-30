@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resumen on Desarrollo de aplicaciones web en el servidor</title>
+    <link>http://example.org/resumen/</link>
+    <description>Recent content in Resumen on Desarrollo de aplicaciones web en el servidor</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 29 Sep 2021 16:14:35 +0200</lastBuildDate>
+    
+	<atom:link href="http://example.org/resumen/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Resumen1</title>
+      <link>http://example.org/resumen/resumen1/</link>
+      <pubDate>Wed, 29 Sep 2021 16:14:35 +0200</pubDate>
+      
+      <guid>http://example.org/resumen/resumen1/</guid>
+      <description>Resumen Tema Sitios Estaticos Este tema trata de los sitios estaticos.</description>
+    </item>
+    
+  </channel>
+</rss>
