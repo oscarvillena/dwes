@@ -1,0 +1,41 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Desarrollo de aplicaciones web en el servidor"
+theme = 'learn'
+
+[params]
+themeVariant="blue"
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+
+[[menu.shortcuts]]
+
+name = " <i class='fab fa-php'></i> Página de Php"
+identifier = "al"
+url = "https://php.net"
+weight = 10
+
+[[menu.shortcuts]]
+
+name = " <i class='fab fa-ubuntu'></i> Página de Ubuntu"
+identifier = "el"
+url = "https://ubuntu.com/"
+weight = 10
+
+[[menu.shortcuts]]
+
+name = " <i class='fab fa-instagram'></i> Página de Instagram"
+identifier = "ul"
+url = "https://www.instagram.com/?hl=es"
+weight = 10
+
+[[menu.shortcuts]]
+
+name = " <i class='fab fa-youtube'></i> Página de Youtube"
+identifier = "il"
+url = "https://www.youtube.com/?hl=ES"
+weight = 10
+
+
+
