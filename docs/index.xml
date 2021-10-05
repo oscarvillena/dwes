@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Desarrollo de aplicaciones web on Desarrollo de aplicaciones web en el servidor</title>
-    <link>http://example.org/</link>
+    <link>https://oscarvillena.github.io/dwes/</link>
     <description>Recent content in Desarrollo de aplicaciones web on Desarrollo de aplicaciones web en el servidor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 28 Sep 2021 17:04:36 +0200</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://oscarvillena.github.io/dwes/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Resumen1</title>
-      <link>http://example.org/resumen/resumen1/</link>
+      <link>https://oscarvillena.github.io/dwes/resumen/resumen1/</link>
       <pubDate>Wed, 29 Sep 2021 16:14:35 +0200</pubDate>
       
-      <guid>http://example.org/resumen/resumen1/</guid>
+      <guid>https://oscarvillena.github.io/dwes/resumen/resumen1/</guid>
       <description>Resumen Tema Sitios Estaticos Este tema trata de los sitios estaticos.</description>
     </item>
     
     <item>
       <title>Apuntes1</title>
-      <link>http://example.org/apuntes/apuntes1/</link>
+      <link>https://oscarvillena.github.io/dwes/apuntes/apuntes1/</link>
       <pubDate>Tue, 28 Sep 2021 17:49:56 +0200</pubDate>
       
-      <guid>http://example.org/apuntes/apuntes1/</guid>
+      <guid>https://oscarvillena.github.io/dwes/apuntes/apuntes1/</guid>
       <description>Este lenguaje se llama Markdown y lo utilizo en este sitio estatico.
 {Accede a Markdown}(https://markdown.es/)
 Título de nuestro documento Índice de contenidos  Contenido 1 Contenido 2 Contenido 3 Contenido 4  Lorem ipsum dolor

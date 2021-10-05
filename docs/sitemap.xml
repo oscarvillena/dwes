@@ -3,36 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/resumen/resumen1/</loc>
+    <loc>https://oscarvillena.github.io/dwes/resumen/resumen1/</loc>
     <lastmod>2021-09-29T16:14:35+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://oscarvillena.github.io/dwes/</loc>
     <lastmod>2021-09-28T17:04:36+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/apuntes/apuntes1/</loc>
+    <loc>https://oscarvillena.github.io/dwes/apuntes/apuntes1/</loc>
     <lastmod>2021-09-28T17:49:56+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/resumen/</loc>
+    <loc>https://oscarvillena.github.io/dwes/resumen/</loc>
     <lastmod>2021-09-29T16:14:35+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/apuntes/</loc>
+    <loc>https://oscarvillena.github.io/dwes/apuntes/</loc>
     <lastmod>2021-09-28T17:49:56+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://oscarvillena.github.io/dwes/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://oscarvillena.github.io/dwes/tags/</loc>
   </url>
   
 </urlset>
