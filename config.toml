@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://oscarvillena.github.io/dwes"
 languageCode = "en-us"
 title = "Desarrollo de aplicaciones web en el servidor"
 theme = 'learn'
