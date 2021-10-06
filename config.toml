@@ -2,6 +2,9 @@ baseURL = "https://oscarvillena.github.io/dwes/"
 languageCode = "en-us"
 title = "Desarrollo de aplicaciones web en el servidor"
 theme = 'learn'
+defaultContentLanguage = "es"
+defaultContentLanguageInSubdir= true
+
 
 [params]
 themeVariant="blue"
@@ -29,6 +32,19 @@ name = " <i class='fab fa-instagram'></i> Página de Instagram"
 identifier = "ul"
 url = "https://www.instagram.com/?hl=es"
 weight = 10
+
+[Languages]
+[Languages.es]
+title = "documentacion del tema hugo learn"
+weight = 1
+languageName = "Español"
+
+[Languages.fr]
+title = "Documentation du thème Hugo Learn"
+weight = 2
+languageName = "Français"
+
+
 
 [[menu.shortcuts]]
 
